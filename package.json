@@ -18,6 +18,11 @@
     "api",
     "sdk"
   ],
-  "author": "Your Name",
+  "author": "JWT Revoke",
+  "homepage": "https://jwtrevoke.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwtrevoke/node-js-sdk"
+  },
   "license": "MIT"
 } 
