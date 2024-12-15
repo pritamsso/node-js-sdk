@@ -1,0 +1,23 @@
+{
+  "name": "jwt-revoke",
+  "version": "1.0.0",
+  "description": "Node.js SDK for JWT Revoke API",
+  "main": "src/jwt-revoke.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "keywords": [
+    "jwt",
+    "revoke",
+    "api",
+    "sdk"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 
